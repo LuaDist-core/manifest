@@ -62,7 +62,7 @@
                     "lua >= 5.1",
                     "penlight >= 1.4.1",
                 }
-            }
+            },
             ["0.3-2"] = {
                 dependencies = {
                     "lua >= 5.1",
