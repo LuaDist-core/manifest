@@ -257,6 +257,12 @@
             }
         },
         rocksolver = {
+            ["0.5-5"] = {
+                dependencies = {
+                    "lua >= 5.1",
+                    "md5 >= 1.2-1",
+                }
+            },
             ["0.5-4"] = {
                 dependencies = {
                     "lua >= 5.1",
