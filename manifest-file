@@ -77,7 +77,6 @@
             }
         },
         luadist2 = {
-            luadist2 = {
             ["0.9-0"] = {
                 dependencies = {
                     "lua >= 5.1",
