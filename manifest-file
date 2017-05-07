@@ -353,6 +353,13 @@
                 }
             }
         },
+        lua2c = {
+            ["0.1-1"] = {
+                dependencies = {
+                     "lua >= 5.1",
+                }
+            }
+        },
         srlua = {
             ["5.2-2"] = {
                 dependencies = {
